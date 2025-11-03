@@ -83,3 +83,4 @@ class TestVarasto(unittest.TestCase):
         self.assertEqual(v.saldo, 10.0)
 
 
+moi
