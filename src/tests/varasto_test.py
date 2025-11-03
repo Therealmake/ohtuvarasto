@@ -81,6 +81,3 @@ class TestVarasto(unittest.TestCase):
     def test_liian_suuri_konstruktori(self):
         v = Varasto(10, 15)
         self.assertEqual(v.saldo, 10.0)
-
-
-moi
